@@ -1,0 +1,1 @@
+На примере датасета penguins рассмотрены методы уменьшения размерности данных (**PCA, t-SNE, UMAP**) и методы кластеризации (**KMeans, t-SNE + KMeans, Agglomerative, DBScan**).
